@@ -1,0 +1,15 @@
+C:\Users\adari\repos\API\API\KanyWest\bin\Debug\netcoreapp3.1\KanyWest.exe
+C:\Users\adari\repos\API\API\KanyWest\obj\Debug\netcoreapp3.1\KanyWest.AssemblyInfoInputs.cache
+C:\Users\adari\repos\API\API\KanyWest\obj\Debug\netcoreapp3.1\KanyWest.AssemblyInfo.cs
+C:\Users\adari\repos\API\API\KanyWest\bin\Debug\netcoreapp3.1\KanyWest.deps.json
+C:\Users\adari\repos\API\API\KanyWest\bin\Debug\netcoreapp3.1\KanyWest.runtimeconfig.json
+C:\Users\adari\repos\API\API\KanyWest\bin\Debug\netcoreapp3.1\KanyWest.runtimeconfig.dev.json
+C:\Users\adari\repos\API\API\KanyWest\bin\Debug\netcoreapp3.1\KanyWest.dll
+C:\Users\adari\repos\API\API\KanyWest\bin\Debug\netcoreapp3.1\KanyWest.pdb
+C:\Users\adari\repos\API\API\KanyWest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adari\repos\API\API\KanyWest\obj\Debug\netcoreapp3.1\KanyWest.csprojAssemblyReference.cache
+C:\Users\adari\repos\API\API\KanyWest\obj\Debug\netcoreapp3.1\KanyWest.csproj.CoreCompileInputs.cache
+C:\Users\adari\repos\API\API\KanyWest\obj\Debug\netcoreapp3.1\KanyWest.csproj.CopyComplete
+C:\Users\adari\repos\API\API\KanyWest\obj\Debug\netcoreapp3.1\KanyWest.dll
+C:\Users\adari\repos\API\API\KanyWest\obj\Debug\netcoreapp3.1\KanyWest.pdb
+C:\Users\adari\repos\API\API\KanyWest\obj\Debug\netcoreapp3.1\KanyWest.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EnNnWel5CgyDr5tIJqaZXmIQF1c/8NwzJm/723H3fRD29UHmr1IsJjN+UtKy1U5c6/ZNjDlr3bpn7SS1/VCgHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adari\\repos\\API\\API\\Kanye West\\Kanye West.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adari\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

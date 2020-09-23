@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yI0wjZ5glJIwCNMg8BgeWgQx00XRuTRIEhZYJEuFpWco0G8gCRobSEy7+zoUbBXHwOGVstjNIRT2C5DPNhLHtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adari\\repos\\API\\API\\API Convo\\API Convo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adari\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

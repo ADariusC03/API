@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1k1sO9sK8Y7fk7slj1rZsbdYxUx5WSSVHmesSnR7KaUyvXARorUM1i1a6AYwBihikaV03GVnQYvyispD1UPikw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adari\\repos\\API\\API\\KanyWest\\KanyWest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adari\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

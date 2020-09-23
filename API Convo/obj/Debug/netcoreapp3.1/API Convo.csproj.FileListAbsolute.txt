@@ -1,0 +1,15 @@
+C:\Users\adari\repos\API\API\API Convo\bin\Debug\netcoreapp3.1\API Convo.exe
+C:\Users\adari\repos\API\API\API Convo\obj\Debug\netcoreapp3.1\API Convo.AssemblyInfoInputs.cache
+C:\Users\adari\repos\API\API\API Convo\obj\Debug\netcoreapp3.1\API Convo.AssemblyInfo.cs
+C:\Users\adari\repos\API\API\API Convo\bin\Debug\netcoreapp3.1\API Convo.deps.json
+C:\Users\adari\repos\API\API\API Convo\bin\Debug\netcoreapp3.1\API Convo.runtimeconfig.json
+C:\Users\adari\repos\API\API\API Convo\bin\Debug\netcoreapp3.1\API Convo.runtimeconfig.dev.json
+C:\Users\adari\repos\API\API\API Convo\bin\Debug\netcoreapp3.1\API Convo.dll
+C:\Users\adari\repos\API\API\API Convo\bin\Debug\netcoreapp3.1\API Convo.pdb
+C:\Users\adari\repos\API\API\API Convo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adari\repos\API\API\API Convo\obj\Debug\netcoreapp3.1\API Convo.csprojAssemblyReference.cache
+C:\Users\adari\repos\API\API\API Convo\obj\Debug\netcoreapp3.1\API Convo.csproj.CoreCompileInputs.cache
+C:\Users\adari\repos\API\API\API Convo\obj\Debug\netcoreapp3.1\API Convo.csproj.CopyComplete
+C:\Users\adari\repos\API\API\API Convo\obj\Debug\netcoreapp3.1\API Convo.dll
+C:\Users\adari\repos\API\API\API Convo\obj\Debug\netcoreapp3.1\API Convo.pdb
+C:\Users\adari\repos\API\API\API Convo\obj\Debug\netcoreapp3.1\API Convo.genruntimeconfig.cache
