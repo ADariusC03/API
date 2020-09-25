@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WEB7jpFtBRNFJ24RDCJRhu2toR6CodcAYyfun/LDMULCRb+DWIdEIr/W6vhKPEbG+/pRoqZ/zgNTi6R4sGFifA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adari\\repos\\API\\API\\PlayingWithAPIs\\PlayingWithAPIs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adari\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

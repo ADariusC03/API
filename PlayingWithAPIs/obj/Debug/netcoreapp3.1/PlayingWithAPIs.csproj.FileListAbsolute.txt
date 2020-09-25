@@ -1,0 +1,15 @@
+C:\Users\adari\repos\API\API\PlayingWithAPIs\bin\Debug\netcoreapp3.1\PlayingWithAPIs.exe
+C:\Users\adari\repos\API\API\PlayingWithAPIs\obj\Debug\netcoreapp3.1\PlayingWithAPIs.csprojAssemblyReference.cache
+C:\Users\adari\repos\API\API\PlayingWithAPIs\obj\Debug\netcoreapp3.1\PlayingWithAPIs.AssemblyInfoInputs.cache
+C:\Users\adari\repos\API\API\PlayingWithAPIs\obj\Debug\netcoreapp3.1\PlayingWithAPIs.AssemblyInfo.cs
+C:\Users\adari\repos\API\API\PlayingWithAPIs\bin\Debug\netcoreapp3.1\PlayingWithAPIs.deps.json
+C:\Users\adari\repos\API\API\PlayingWithAPIs\bin\Debug\netcoreapp3.1\PlayingWithAPIs.runtimeconfig.json
+C:\Users\adari\repos\API\API\PlayingWithAPIs\bin\Debug\netcoreapp3.1\PlayingWithAPIs.runtimeconfig.dev.json
+C:\Users\adari\repos\API\API\PlayingWithAPIs\bin\Debug\netcoreapp3.1\PlayingWithAPIs.dll
+C:\Users\adari\repos\API\API\PlayingWithAPIs\bin\Debug\netcoreapp3.1\PlayingWithAPIs.pdb
+C:\Users\adari\repos\API\API\PlayingWithAPIs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adari\repos\API\API\PlayingWithAPIs\obj\Debug\netcoreapp3.1\PlayingWithAPIs.csproj.CoreCompileInputs.cache
+C:\Users\adari\repos\API\API\PlayingWithAPIs\obj\Debug\netcoreapp3.1\PlayingWithAPIs.csproj.CopyComplete
+C:\Users\adari\repos\API\API\PlayingWithAPIs\obj\Debug\netcoreapp3.1\PlayingWithAPIs.dll
+C:\Users\adari\repos\API\API\PlayingWithAPIs\obj\Debug\netcoreapp3.1\PlayingWithAPIs.pdb
+C:\Users\adari\repos\API\API\PlayingWithAPIs\obj\Debug\netcoreapp3.1\PlayingWithAPIs.genruntimeconfig.cache
